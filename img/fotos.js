@@ -5,4 +5,4 @@ export default{
     perfil03: require('./4.jpg'),
     perfil04: require('./5.jpg'),
     perfil05: require('./base.jpg'),
-}
+};
