@@ -6,5 +6,6 @@ export default function Titulo(){
         <Text style={{fontSize:24, fontWeight:'bold', marginBottom:10}}>
         Bem-vindo ao React Native!
         </Text>
-    )
+    );
+
 }
